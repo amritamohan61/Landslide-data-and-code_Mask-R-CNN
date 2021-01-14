@@ -6,6 +6,3 @@ Steps to follow for execution -
 	4. Run each cell and wait for its execution to show you results.
 
 
-## Ejaz Ahamed
-## Btech 8th Sem
-## 20165081
